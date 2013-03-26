@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httparty (0.10.2)
+      multi_json (~> 1.0)
+      multi_xml (>= 0.5.2)
+    json (1.7.7)
+    moneta (0.7.14)
+    multi_json (1.7.2)
+    multi_xml (0.5.3)
+    ruby-progressbar (1.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httparty
+  json
+  moneta
+  ruby-progressbar
